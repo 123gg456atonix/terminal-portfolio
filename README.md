@@ -214,7 +214,6 @@ The app can be deployed to any platform supporting Node.js:
 - Email: admin@123gg456.com
 - Website: https://123gg456.com
 - GitHub: [@123gg456atonix](https://github.com/123gg456atonix)
-- LinkedIn: [123gg456](https://linkedin.com/in/123gg456)
 - Discord: @123gg456_
 
 ## 🔗 Links
